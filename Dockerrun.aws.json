@@ -27,7 +27,7 @@
       "portMappings": [
         {
           "host": 80,
-          "container": 80
+          "containerPort": 80
         }
       ],
       "links": [
